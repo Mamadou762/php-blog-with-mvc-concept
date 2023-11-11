@@ -23,6 +23,6 @@ function getPostsById($id) {
 }
 
 function getCommentsById($id) {
-    echo 'gfg';
+   echo 'gfg';
     return null;
 }
