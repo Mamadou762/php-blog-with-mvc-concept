@@ -21,3 +21,7 @@ function getPostsById($id) {
 
     return $posts;
 }
+
+function getCommentsById($id) {
+    return null;
+}
